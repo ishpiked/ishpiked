@@ -18,9 +18,6 @@ Just a Fuckass Fatty Developer and a Retard Student.
 | [MangaDesk](https://github.com/ishpiked/REPLACE_WITH_REPO_NAME) | Manga reader bot on the MangaDex API |
 | [Chess Engine](https://github.com/ishpiked/REPLACE_WITH_REPO_NAME) | Perft-verified engine with a 226-entry opening book |
 
-# Contribution Graph:
-![](https://raw.githubusercontent.com/ishpiked/ishpiked/output/github-contribution-grid-snake.svg)
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ishpiked&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=ishpiked&theme=dark&hide_border=false)<br/>
