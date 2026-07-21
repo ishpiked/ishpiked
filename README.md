@@ -25,8 +25,6 @@ Currently building: a Telegram URL monitor/uptime bot on Vercel Cron + Supabase,
 # Contribution Graph:
 ![](https://raw.githubusercontent.com/ishpiked/ishpiked/output/github-contribution-grid-snake.svg)
 
-*Requires a one-time GitHub Action setup — see [platane/snk](https://github.com/Platane/snk) for the workflow file.*
-
 # Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ishpiked&theme=darkhub&no-frame=true&row=1&column=7)
 
@@ -36,9 +34,8 @@ Currently building: a Telegram URL monitor/uptime bot on Vercel Cron + Supabase,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishpiked&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Weekly Coding Hours:
-*Requires a free [Wakatime](https://wakatime.com) account linked to your editor. Once set up, replace REPLACE_WITH_WAKATIME_USERNAME below.*
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=REPLACE_WITH_WAKATIME_USERNAME&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=97353564-068b-4354-8612-6a8f7864a5dc&theme=dark&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ishpiked&icon=0&color=0)](https://visitcount.itsvg.in)
