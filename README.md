@@ -23,9 +23,6 @@ Just a fuckass fatty dev and a retard student.
 # Contribution Graph:
 ![](https://raw.githubusercontent.com/ishpiked/ishpiked/output/github-contribution-grid-snake.svg)
 
-# Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ishpiked&theme=darkhub&no-frame=true&row=1&column=7)
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ishpiked&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=ishpiked&theme=dark&hide_border=false)<br/>
