@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=120&section=header&text=NOMAD%20BOTS&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=building%20quietly%2C%20shipping%20anyway&descAlignY=80&descSize=14&descColor=8a8a8a&fontFamily=monospace)
 
 # About Me:
-Just a fuckass fatty dev and a retard student.
+Just a Fuckass Fatty Developer and a Retard Student.
 
 ## Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_handle_here) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.25scs100300402072@iilm.edu)
@@ -18,10 +18,11 @@ Just a fuckass fatty dev and a retard student.
 | [MangaDesk](https://github.com/ishpiked/REPLACE_WITH_REPO_NAME) | Manga reader bot on the MangaDex API |
 | [Chess Engine](https://github.com/ishpiked/REPLACE_WITH_REPO_NAME) | Perft-verified engine with a 226-entry opening book |
 
-*Replace each link above with the actual repo name once pushed.*
-
 # Contribution Graph:
 ![](https://raw.githubusercontent.com/ishpiked/ishpiked/output/github-contribution-grid-snake.svg)
+
+# Trophies:
+![](https://github-profile-trophy.vercel.app/?username=ishpiked&theme=darkhub&no-frame=true&row=1&column=7)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ishpiked&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -29,8 +30,7 @@ Just a fuckass fatty dev and a retard student.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishpiked&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Weekly Coding Hours:
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=97353564-068b-4354-8612-6a8f7864a5dc&theme=dark&hide_border=false&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/97353564-068b-4354-8612-6a8f7864a5dc.svg)](https://wakatime.com/@97353564-068b-4354-8612-6a8f7864a5dc)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ishpiked&icon=0&color=0)](https://visitcount.itsvg.in)
