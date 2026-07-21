@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Nomad%20Bots&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=120&section=header&text=NOMAD%20BOTS&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=building%20quietly%2C%20shipping%20anyway&descAlignY=80&descSize=14&descColor=8a8a8a&fontFamily=monospace)
 
 # About Me:
 Independent developer building Telegram bots and web tools under **Nomad Bots**.
