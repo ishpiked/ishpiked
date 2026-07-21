@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aryan.;Full%20Stack%20Developer.;Building%20useful%20stuff.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aryan.;Nomad+Bots.;Building+useful+stuff.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,9 @@
 
 ### About me
 
-I'm Aryan. A student who got into coding and kind of never stopped. I work mostly with javascript and react on the frontend, and I've been picking up python on the side. still early in the journey, but I take it seriously. I like understanding how things actually work, not just copy-pasting until it runs.
+I build Telegram bots and web tools under the **Nomad Bots** umbrella — media bots, utility bots, AI chatbots, moderation tools, whatever the project calls for. Python is my main language (aiogram, python-telegram-bot, Pyrogram), backed by Supabase and deployed serverless on Vercel. I also ship standalone web apps in HTML/CSS/JS when a project needs a frontend of its own.
+
+I like understanding how things actually work under the hood, not just gluing APIs together until something runs.
 
 <br/>
 
@@ -24,12 +26,14 @@ I'm Aryan. A student who got into coding and kind of never stopped. I work mostl
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
@@ -58,9 +62,15 @@ I'm Aryan. A student who got into coding and kind of never stopped. I work mostl
 
 ### Projects
 
-Nothing shipped yet. But that's temporary.
-<br/>
-Check back soon.
+**Nomadry** — multi-bot ecosystem: file-sharing bot with TMDB-parsed captions and auto-delete timers, a news-posting bot, and a premium subscription module with Telegram Stars and referral tiers.
+
+**Leon** — AI chatbot powered by the Groq API, with parallel web search, emotional intelligence tuning, and link/meme handling.
+
+**Wholehand** — anime character guessing/collection bot with AniList GraphQL integration and a five-tier rarity system.
+
+**MangaDesk** — manga reader bot pulling from the MangaDex API.
+
+Plus a growing pile of standalone HTML apps — a full chess engine with an opening book and notation panel, a movie/series discovery app on TMDB — built alongside the bots.
 
 <br/>
 
@@ -79,5 +89,5 @@ Check back soon.
 ---
 
 <div align="center">
-  <sub>Building in public. Learning out loud.</sub>
+  <sub>Building bots in the dark. Shipping them anyway.</sub>
 </div>
