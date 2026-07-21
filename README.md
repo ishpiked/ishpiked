@@ -4,7 +4,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hoveringoverit&style=flat-square&color=58A6FF&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=ishpiked&style=flat-square&color=58A6FF&label=profile+views)
 
 </div>
 
@@ -45,14 +45,14 @@ I like understanding how things actually work under the hood, not just gluing AP
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hoveringoverit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringoverit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ishpiked&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishpiked&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hoveringoverit&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ishpiked&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
